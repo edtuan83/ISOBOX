@@ -1,7 +1,7 @@
 # ISOBOX
 A ISO-enter mx based leverless controller
 
-If you're anything like me, your addiction to keyboard has left you in an excess of several things - switches, unused keyset keys, and stabilizers (unless you collect 100% boards). I've never known what to do with all these extra parts, considering for the most part I like 60 and 65% keyboards and have thus amassed a sizeable collection of spare parts. 
+If you're anything like me, your addiction to keyboard has left you in an excess of several things - switches, unused keyset keys, and stabilizers (unless you collect 100% boards). I've never known what to do , considering for the most part I like 60 and 65% keyboards and have thus amassed a sizeable collection of spare parts. 
 
 With the release of SF6, I was on the market for a leverless fightstick. I noticed that several commercial and community projects utilized keyboard switches mounted to a PCB for buttons. These boards would be mated with either Brooks or Rasberry Pi PCBs (yo dawg I heard you like PCBs) to allow them to function as game controllers, and have pretty simplistic routing and soldering when compared to keyboard PCBs. Seeing the overlap between these two hobbies of mine, the gears started spinning in my head, and the ISOBOX was born. 
 
